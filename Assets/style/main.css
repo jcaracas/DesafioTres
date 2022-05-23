@@ -90,6 +90,7 @@ p {
 .imagen-list {
     align-items: center;
     padding: 0;
+    display: inline-block;
 }
 li{
     text-decoration: none;
